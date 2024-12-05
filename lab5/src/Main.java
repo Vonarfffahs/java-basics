@@ -36,6 +36,9 @@ public class Main {
     }
 }
 
+/**
+ * Represents a rose flower.
+ */
 class Rose extends Flower {
     private final String name;
 
@@ -53,6 +56,9 @@ class Rose extends Flower {
     }
 }
 
+/**
+ * Represents a tulip flower.
+ */
 class Tulip extends Flower {
     private final String name;
 
@@ -70,6 +76,9 @@ class Tulip extends Flower {
     }
 }
 
+/**
+ * Represents a lily flower.
+ */
 class Lily extends Flower {
     private final String name;
 
